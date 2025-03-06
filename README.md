@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-kaul" alt="sarthak-kaul" /></a> </p>
 
-- 🔭 I’m currently working on **Expanding my portfolio of data analysis projects using SQL, Python, Power BI, and Tableau**
+- 🔭 I’m currently working on **Expanding my portfolio of data analysis projects using SQL, Python, Power BI, and Tableau
 
 - 🌱 I’m currently learning **Python libraries** for data analysis (Pandas, NumPy, Matplotlib, Seaborn)**
 
