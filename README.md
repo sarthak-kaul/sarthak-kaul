@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Finding real-world datasets**
 
-- 👨‍💻 All of my projects are available at [🔗 [GitHub Portfolio] https://github.com/sarthak-kaul](🔗 [GitHub Portfolio] https://github.com/sarthak-kaul)
+- 👨‍💻 All of my projects are available at [🔗[GitHub Portfolio] https://github.com/sarthak-kaul)
 
 - 💬 Ask me about **Power BI Dashboards**
 
