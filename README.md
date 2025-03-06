@@ -30,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-kaul&show_icons=true&locale=en&layout=compact" alt="sarthak-kaul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-kaul&show_icons=true&locale=en" alt="sarthak-kaul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-kaul&" alt="sarthak-kaul" /></p>
